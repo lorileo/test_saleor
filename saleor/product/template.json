@@ -1,0 +1,137 @@
+{
+    "Category_p" : {
+        "private_metadata": {},
+        "metadata": {},
+        "seo_title": "",
+        "seo_description": "",
+        "description": "",
+        "description_json": {
+          "blocks": [
+            {
+              "key": "",
+              "data": {},
+              "text": "",
+              "type": "unstyled",
+              "depth": 0,
+              "entityRanges": [],
+              "inlineStyleRanges": []
+            }
+          ],
+          "entityMap": {}
+        },
+        "parent": null,
+        "background_image_alt": "",
+        "lft": 1,
+        "rght": 6,
+        "level": 0
+    },
+    "Category_s" : {
+      "private_metadata": {},
+      "metadata": {},
+      "seo_title": "",
+      "seo_description": "",
+      "description": "",
+      "description_json": {
+        "blocks": [
+          {
+            "key": "",
+            "data": {},
+            "text": "",
+            "type": "unstyled",
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": []
+          }
+        ],
+        "entityMap": {}
+      },
+      "parent": null,
+      "background_image_alt": "",
+      "lft": 2,
+      "rght": 3,
+      "level": 1
+  },
+  "producttype": {
+      "private_metadata": {},
+      "metadata": {
+          "vatlayer.code": "standard",
+          "vatlayer.description": ""
+      },
+      "is_shipping_required": true,
+      "is_digital": false
+  },
+  "product": {
+      "publication_date": null,
+      "is_published": true,
+      "private_metadata": {},
+      "metadata": {
+          "vatlayer.code": "standard",
+          "vatlayer.description": ""
+      },
+      "seo_title": "",
+      "description_json": {
+        "blocks": [
+          {
+            "key": "",
+            "data": {},
+            "text": "Tonight, my love, let us take fat brushes and paint the skies with the shades of nebula tides. Get the dark, moody shades of the ether.",
+            "type": "unstyled",
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": []
+          }
+        ],
+        "entityMap": {}
+      },
+      "currency": "USD",
+      "updated_at": "2019-08-27T10:54:00.076Z",
+      "charge_taxes": true
+  },
+  "productimage": {
+      "sort_order": 0,
+      "ppoi": "0.5x0.5",
+      "alt": ""
+  },
+  "productvariant": {
+      "private_metadata": {},
+      "metadata": {},
+      "currency": "USD",
+      "track_inventory": true,
+      "weight": "0"
+  },
+  "attribute": {
+      "private_metadata": {},
+      "metadata": {},
+      "input_type": "dropdown",
+      "value_required": false,
+      "is_variant_only": false,
+      "visible_in_storefront": true,
+      "filterable_in_storefront": true,
+      "filterable_in_dashboard": true,
+      "storefront_search_position": 0,
+      "available_in_grid": true
+  },
+  "attributevalue": {
+      "sort_order": 6,
+      "value": ""
+  },
+  "attributeproduct": {
+      "sort_order": null
+  },
+  "primary_categories": {
+    "sort_order": 0,
+    "lft": 1,
+    "rght": 6,
+    "tree_id": 4,
+    "level": 0,
+    "menu_id": 1
+  },
+  "secondary_category": {
+    "sort_order": 1,
+    "lft": 2,
+    "rght": 3,
+    "tree_id": 4,
+    "level": 1,
+    "menu_id": 1
+  }
+}
